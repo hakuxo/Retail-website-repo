@@ -8,7 +8,6 @@ This is a code refactor project for the Horiseon webpage. The webpage advertises
 
 
 ## Links
-http://127.0.0.1:5500/index.html
 
 https://github.com/hakuxo/Retail-website-repo
 
